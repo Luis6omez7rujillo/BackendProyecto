@@ -4,3 +4,8 @@ export * from './persona-pedido.controller';
 export * from './producto-pedido.controller';
 export * from './persona.controller';
 export * from './producto.controller';
+export * from './pago-persona.controller';
+export * from './persona-pago.controller';
+export * from './pago.controller';
+export * from './pedido-pago.controller';
+export * from './pago-pedido.controller';
